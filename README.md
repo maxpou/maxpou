@@ -8,7 +8,9 @@
 
 ---
 
-I am working a Senior Software Engineer at VSware where I am building software for education.
+I am working a Senior Software Engineer at VSware where I am building software for education. 
+
+<a href="https://www.maxpou.fr"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/maxpou/maxpou/main/octomax.svg"></a>
 
 * 🏗 I works with a massive Vue.js application (focusing on architecture, performances and testing)
 * 📝 I blog at [maxpou.fr](https://www.maxpou.fr)

@@ -18,8 +18,8 @@ I am working a Senior Software Engineer at Orderfox where I am building software
 * 👨🏼‍🏫 I mentor people who want to retrain in software development
 * 📫 Feel free to ping me on Twitter [@_maxpou](https://twitter.com/_maxpou)
 
-
-
+<br/>
+<br/>
 
 #### Some posts I wrote
 

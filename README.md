@@ -19,7 +19,6 @@ I am working a Senior Software Engineer at Orderfox where I am building software
 * 📫 Feel free to ping me on Twitter [@_maxpou](https://twitter.com/_maxpou)
 
 <br/>
-<br/>
 
 #### Some posts I wrote
 

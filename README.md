@@ -30,4 +30,4 @@ I am working as a Senior Software Engineer at Orderfox where I am building softw
 #### Some projects I did
 
 * [YoutubeMate](https://youtube-mate.com) - a (paid) browser extension for generating transcripts and summaries of YouTube videos in any language.
-* [Avion](https://air-max.netlify.app/) - A free 3D flight simulator built with Three.js, playable in your browser.
+* [Avion](https://avion-game.netlify.app) - A free 3D flight simulator built with Three.js, playable in your browser.

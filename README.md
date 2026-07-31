@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.maxpou.fr">Blog</a> •
-  <a href="https://twitter.com/_maxpou">Twitter</a> •
   <a href="https://www.linkedin.com/in/maxpou/">LinkedIn</a> •
   <a href="https://www.maxpou.fr/readme">Personal Readme</a>
 </p>
@@ -23,11 +22,11 @@ I am working as a Senior Software Engineer at Orderfox where I am building softw
 
 #### Some posts I wrote
 
-* [Turborepo: a Monorepo Revolution](https://www.maxpou.fr/turborepo)
+* [Anatomy of a Crypto Scam - Thomas Harris](https://www.maxpou.fr/blog/crypto-scam-with-ai/)
 * [Vue.js: Let's Scale!](https://www.maxpou.fr/vue-js-module-architecture)
 * [Git: Cheat Sheet (advanced)](https://www.maxpou.fr/git-cheat-sheet)
 
 #### Some projects I did
 
-* [YoutubeMate](https://youtube-mate.com) - a (paid) browser extension for generating transcripts and summaries of YouTube videos in any language.
-* [Avion](https://avion-game.netlify.app) - A free 3D flight simulator built with Three.js, playable in your browser.
+* [YoutubeMate](https://youtube-mate.com) - An AI assistant that generates summaries of YouTube videos and saves you precious time!
+* [Avion](https://air-max.netlify.app/) - A free 3D flight simulator built with Three.js, playable in your browser.

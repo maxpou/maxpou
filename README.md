@@ -28,5 +28,6 @@ I am working as a Senior Software Engineer at Orderfox where I am building softw
 
 #### Some projects I did
 
+* [Pedalyze](https://pedalyze.bike/en) - Fix your bike fit with a photo and get personalized recommendations to improve your cycling performance. 
 * [YoutubeMate](https://youtube-mate.com) - An AI assistant that generates summaries of YouTube videos and saves you precious time!
-* [Avion](https://air-max.netlify.app/) - A free 3D flight simulator built with Three.js, playable in your browser.
+* [Avion](https://avion-game.netlify.app) - A free 3D flight simulator built with Three.js, playable in your browser.
